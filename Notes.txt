@@ -1,0 +1,2 @@
+#Apple scripts: https://eastmanreference.com/complete-list-of-applescript-key-codes
+#os.system("open /Applications/OBS.app")
