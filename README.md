@@ -3,8 +3,6 @@ This script will start a screen recording using mac's build in QuickTime Player 
 
 Features: 
 - Start recording 
-- Ensures your mac doesn't go to sleep which will terminate the program (In progress)
 - Stop the recording at your targetted time 
-- Turn off your computer (In progress)
 
 Made this becuase my lectures are from 630pm - 1030pm but I usually turn in at 930pm.
